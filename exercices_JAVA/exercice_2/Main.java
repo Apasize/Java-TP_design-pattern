@@ -1,10 +1,10 @@
-import DatabaseSingleton.DatabaseSingleton;
+package exercice_2;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+import exercice_2.DatabaseSingleton.DatabaseSingleton;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("...Test de l'unicité de l'instance DatabaseSingleton...");
+        System.out.println("...Test de l'unicité de l'instance exercice_2.DatabaseSingleton...");
 
         DatabaseSingleton databaseSingleton = DatabaseSingleton.getInstance("ApasizeDatabase");
 

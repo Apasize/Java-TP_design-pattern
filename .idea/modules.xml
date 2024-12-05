@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TP-JAVA_design-pattern.iml" filepath="$PROJECT_DIR$/TP-JAVA_design-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercice_1/exercice_1.iml" filepath="$PROJECT_DIR$/exercice_1/exercice_1.iml" />
     </modules>
   </component>
 </project>

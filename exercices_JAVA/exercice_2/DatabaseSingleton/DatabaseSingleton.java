@@ -1,4 +1,4 @@
-package DatabaseSingleton;
+package exercice_2.DatabaseSingleton;
 
 public class DatabaseSingleton {
     private static DatabaseSingleton instance;
